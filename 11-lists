@@ -3,4 +3,4 @@
 
 ls -la
 ls -la ..
-ls -la /boott
+ls -la /boot
